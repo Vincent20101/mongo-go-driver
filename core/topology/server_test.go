@@ -4,10 +4,10 @@ import (
 	"context"
 	"testing"
 
-	"github.com/mongodb/mongo-go-driver/core/address"
-	"github.com/mongodb/mongo-go-driver/core/auth"
-	"github.com/mongodb/mongo-go-driver/core/connection"
-	"github.com/mongodb/mongo-go-driver/core/description"
+	"github.com/Vincent20101/mongo-go-driver/core/address"
+	"github.com/Vincent20101/mongo-go-driver/core/auth"
+	"github.com/Vincent20101/mongo-go-driver/core/connection"
+	"github.com/Vincent20101/mongo-go-driver/core/description"
 	"github.com/stretchr/testify/require"
 )
 

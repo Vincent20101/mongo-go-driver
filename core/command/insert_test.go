@@ -3,8 +3,8 @@ package command
 import (
 	"testing"
 
-	"github.com/mongodb/mongo-go-driver/bson"
-	"github.com/mongodb/mongo-go-driver/core/description"
+	"github.com/Vincent20101/mongo-go-driver/bson"
+	"github.com/Vincent20101/mongo-go-driver/core/description"
 	"github.com/stretchr/testify/assert"
 )
 

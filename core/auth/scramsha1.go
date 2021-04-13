@@ -15,8 +15,8 @@ import (
 	"math/rand"
 	"strconv"
 
-	"github.com/mongodb/mongo-go-driver/core/description"
-	"github.com/mongodb/mongo-go-driver/core/wiremessage"
+	"github.com/Vincent20101/mongo-go-driver/core/description"
+	"github.com/Vincent20101/mongo-go-driver/core/wiremessage"
 	"golang.org/x/crypto/pbkdf2"
 
 	"strings"

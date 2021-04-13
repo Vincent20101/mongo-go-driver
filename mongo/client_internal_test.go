@@ -14,15 +14,15 @@ import (
 
 	"fmt"
 
-	"github.com/mongodb/mongo-go-driver/bson"
-	"github.com/mongodb/mongo-go-driver/core/readpref"
-	"github.com/mongodb/mongo-go-driver/core/tag"
-	"github.com/mongodb/mongo-go-driver/internal/testutil"
+	"github.com/Vincent20101/mongo-go-driver/bson"
+	"github.com/Vincent20101/mongo-go-driver/core/readpref"
+	"github.com/Vincent20101/mongo-go-driver/core/tag"
+	"github.com/Vincent20101/mongo-go-driver/internal/testutil"
 	"github.com/stretchr/testify/require"
 
 	"time"
 
-	"github.com/mongodb/mongo-go-driver/mongo/clientopt"
+	"github.com/Vincent20101/mongo-go-driver/mongo/clientopt"
 )
 
 func createTestClient(t *testing.T) *Client {

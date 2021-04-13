@@ -3,7 +3,7 @@ package topology
 import (
 	"testing"
 
-	"github.com/mongodb/mongo-go-driver/bson"
+	"github.com/Vincent20101/mongo-go-driver/bson"
 	"github.com/stretchr/testify/assert"
 )
 

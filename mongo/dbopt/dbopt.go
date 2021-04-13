@@ -3,9 +3,9 @@ package dbopt
 import (
 	"reflect"
 
-	"github.com/mongodb/mongo-go-driver/core/readconcern"
-	"github.com/mongodb/mongo-go-driver/core/readpref"
-	"github.com/mongodb/mongo-go-driver/core/writeconcern"
+	"github.com/Vincent20101/mongo-go-driver/core/readconcern"
+	"github.com/Vincent20101/mongo-go-driver/core/readpref"
+	"github.com/Vincent20101/mongo-go-driver/core/writeconcern"
 )
 
 var dbBundle = new(DatabaseBundle)

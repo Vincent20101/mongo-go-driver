@@ -9,10 +9,10 @@ package command
 import (
 	"errors"
 
-	"github.com/mongodb/mongo-go-driver/bson"
-	"github.com/mongodb/mongo-go-driver/core/readconcern"
-	"github.com/mongodb/mongo-go-driver/core/wiremessage"
-	"github.com/mongodb/mongo-go-driver/core/writeconcern"
+	"github.com/Vincent20101/mongo-go-driver/bson"
+	"github.com/Vincent20101/mongo-go-driver/core/readconcern"
+	"github.com/Vincent20101/mongo-go-driver/core/wiremessage"
+	"github.com/Vincent20101/mongo-go-driver/core/writeconcern"
 )
 
 func marshalCommand(cmd *bson.Document) (bson.Reader, error) {

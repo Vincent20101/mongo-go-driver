@@ -13,8 +13,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/mongodb/mongo-go-driver/examples/documentation_examples"
-	"github.com/mongodb/mongo-go-driver/mongo"
+	"github.com/Vincent20101/mongo-go-driver/examples/documentation_examples"
+	"github.com/Vincent20101/mongo-go-driver/mongo"
 	"github.com/stretchr/testify/require"
 )
 

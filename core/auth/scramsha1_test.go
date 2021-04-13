@@ -13,11 +13,11 @@ import (
 
 	"encoding/base64"
 
-	"github.com/mongodb/mongo-go-driver/bson"
-	. "github.com/mongodb/mongo-go-driver/core/auth"
-	"github.com/mongodb/mongo-go-driver/core/description"
-	"github.com/mongodb/mongo-go-driver/core/wiremessage"
-	"github.com/mongodb/mongo-go-driver/internal"
+	"github.com/Vincent20101/mongo-go-driver/bson"
+	. "github.com/Vincent20101/mongo-go-driver/core/auth"
+	"github.com/Vincent20101/mongo-go-driver/core/description"
+	"github.com/Vincent20101/mongo-go-driver/core/wiremessage"
+	"github.com/Vincent20101/mongo-go-driver/internal"
 	"github.com/stretchr/testify/require"
 )
 

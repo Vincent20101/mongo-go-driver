@@ -9,8 +9,8 @@ package ast
 import (
 	"fmt"
 
-	"github.com/mongodb/mongo-go-driver/bson/decimal"
-	"github.com/mongodb/mongo-go-driver/bson/objectid"
+	"github.com/Vincent20101/mongo-go-driver/bson/decimal"
+	"github.com/Vincent20101/mongo-go-driver/bson/objectid"
 )
 
 // Document represents a BSON Document.

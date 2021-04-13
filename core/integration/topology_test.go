@@ -5,10 +5,10 @@ import (
 	"net"
 	"testing"
 
-	"github.com/mongodb/mongo-go-driver/core/connection"
-	"github.com/mongodb/mongo-go-driver/core/connstring"
-	"github.com/mongodb/mongo-go-driver/core/description"
-	"github.com/mongodb/mongo-go-driver/core/topology"
+	"github.com/Vincent20101/mongo-go-driver/core/connection"
+	"github.com/Vincent20101/mongo-go-driver/core/connstring"
+	"github.com/Vincent20101/mongo-go-driver/core/description"
+	"github.com/Vincent20101/mongo-go-driver/core/topology"
 )
 
 func TestTopologyTopology(t *testing.T) {

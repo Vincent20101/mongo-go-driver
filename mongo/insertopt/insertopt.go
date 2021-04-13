@@ -9,7 +9,7 @@ package insertopt
 import (
 	"reflect"
 
-	"github.com/mongodb/mongo-go-driver/core/option"
+	"github.com/Vincent20101/mongo-go-driver/core/option"
 )
 
 var insertOneBundle = new(OneBundle)

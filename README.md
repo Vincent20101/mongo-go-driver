@@ -1,7 +1,7 @@
 # mongo-go-driver
 
 MongoDB Driver for Go.
-[![GoDoc](https://godoc.org/github.com/mongodb/mongo-go-driver/mongo?status.svg)](https://godoc.org/github.com/mongodb/mongo-go-driver/mongo)
+[![GoDoc](https://godoc.org/github.com/Vincent20101/mongo-go-driver/mongo?status.svg)](https://godoc.org/github.com/Vincent20101/mongo-go-driver/mongo)
 
 -------------------------
 - [Requirements](#requirements)
@@ -23,7 +23,7 @@ MongoDB Driver for Go.
 The recommended way to get started using the MongoDB Go driver is by using `dep` to install the dependency in your project.
 
 ```bash
-dep ensure -add github.com/mongodb/mongo-go-driver/mongo
+dep ensure -add github.com/Vincent20101/mongo-go-driver/mongo
 ```
 
 -------------------------

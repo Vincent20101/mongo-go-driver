@@ -3,8 +3,8 @@ package internal
 import (
 	"context"
 	"testing"
-	"github.com/mongodb/mongo-go-driver/core/wiremessage"
-	"github.com/mongodb/mongo-go-driver/bson"
+	"github.com/Vincent20101/mongo-go-driver/core/wiremessage"
+	"github.com/Vincent20101/mongo-go-driver/bson"
 )
 
 // Implements the connection.Connection interface by reading and writing wire messages

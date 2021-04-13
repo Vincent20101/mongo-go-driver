@@ -3,8 +3,8 @@ package clientopt
 import (
 	"testing"
 
-	"github.com/mongodb/mongo-go-driver/core/connstring"
-	"github.com/mongodb/mongo-go-driver/internal/testutil/helpers"
+	"github.com/Vincent20101/mongo-go-driver/core/connstring"
+	"github.com/Vincent20101/mongo-go-driver/internal/testutil/helpers"
 )
 
 func createNestedBundle1(t *testing.T) *ClientBundle {

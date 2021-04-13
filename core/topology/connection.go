@@ -10,8 +10,8 @@ import (
 	"context"
 	"net"
 
-	"github.com/mongodb/mongo-go-driver/core/connection"
-	"github.com/mongodb/mongo-go-driver/core/wiremessage"
+	"github.com/Vincent20101/mongo-go-driver/core/connection"
+	"github.com/Vincent20101/mongo-go-driver/core/wiremessage"
 )
 
 // sconn is a wrapper around a connection.Connection. This type is returned by

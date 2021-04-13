@@ -15,14 +15,14 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/mongodb/mongo-go-driver/core/connstring"
-	"github.com/mongodb/mongo-go-driver/core/topology"
-	"github.com/mongodb/mongo-go-driver/core/event"
-	"github.com/mongodb/mongo-go-driver/core/connection"
-	"github.com/mongodb/mongo-go-driver/core/description"
+	"github.com/Vincent20101/mongo-go-driver/core/connstring"
+	"github.com/Vincent20101/mongo-go-driver/core/topology"
+	"github.com/Vincent20101/mongo-go-driver/core/event"
+	"github.com/Vincent20101/mongo-go-driver/core/connection"
+	"github.com/Vincent20101/mongo-go-driver/core/description"
 	"github.com/stretchr/testify/require"
-	"github.com/mongodb/mongo-go-driver/core/command"
-	"github.com/mongodb/mongo-go-driver/bson"
+	"github.com/Vincent20101/mongo-go-driver/core/command"
+	"github.com/Vincent20101/mongo-go-driver/bson"
 )
 
 var connectionString connstring.ConnString

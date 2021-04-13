@@ -11,9 +11,9 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/mongodb/mongo-go-driver/core/address"
-	"github.com/mongodb/mongo-go-driver/core/description"
-	"github.com/mongodb/mongo-go-driver/core/wiremessage"
+	"github.com/Vincent20101/mongo-go-driver/core/address"
+	"github.com/Vincent20101/mongo-go-driver/core/description"
+	"github.com/Vincent20101/mongo-go-driver/core/wiremessage"
 	"golang.org/x/sync/semaphore"
 )
 

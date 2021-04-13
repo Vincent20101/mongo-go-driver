@@ -3,7 +3,7 @@ package event
 import (
 	"time"
 
-	"github.com/mongodb/mongo-go-driver/bson"
+	"github.com/Vincent20101/mongo-go-driver/bson"
 )
 
 // CommandMetadata contains metadata about a command sent to the server.

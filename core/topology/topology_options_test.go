@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mongodb/mongo-go-driver/core/connstring"
+	"github.com/Vincent20101/mongo-go-driver/core/connstring"
 	"github.com/stretchr/testify/assert"
 )
 

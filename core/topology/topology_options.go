@@ -11,11 +11,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mongodb/mongo-go-driver/core/auth"
-	"github.com/mongodb/mongo-go-driver/core/command"
-	"github.com/mongodb/mongo-go-driver/core/compressor"
-	"github.com/mongodb/mongo-go-driver/core/connection"
-	"github.com/mongodb/mongo-go-driver/core/connstring"
+	"github.com/Vincent20101/mongo-go-driver/core/auth"
+	"github.com/Vincent20101/mongo-go-driver/core/command"
+	"github.com/Vincent20101/mongo-go-driver/core/compressor"
+	"github.com/Vincent20101/mongo-go-driver/core/connection"
+	"github.com/Vincent20101/mongo-go-driver/core/connstring"
 )
 
 // Option is a configuration option for a topology.

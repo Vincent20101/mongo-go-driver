@@ -18,8 +18,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/mongodb/mongo-go-driver/core/address"
-	"github.com/mongodb/mongo-go-driver/core/description"
+	"github.com/Vincent20101/mongo-go-driver/core/address"
+	"github.com/Vincent20101/mongo-go-driver/core/description"
 )
 
 // ErrSubscribeAfterClosed is returned when a user attempts to subscribe to a

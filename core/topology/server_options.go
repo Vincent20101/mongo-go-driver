@@ -9,7 +9,7 @@ package topology
 import (
 	"time"
 
-	"github.com/mongodb/mongo-go-driver/core/connection"
+	"github.com/Vincent20101/mongo-go-driver/core/connection"
 )
 
 type serverConfig struct {

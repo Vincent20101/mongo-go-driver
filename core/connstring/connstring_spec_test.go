@@ -12,8 +12,8 @@ import (
 	"path"
 	"testing"
 
-	"github.com/mongodb/mongo-go-driver/core/connstring"
-	"github.com/mongodb/mongo-go-driver/internal/testutil/helpers"
+	"github.com/Vincent20101/mongo-go-driver/core/connstring"
+	"github.com/Vincent20101/mongo-go-driver/internal/testutil/helpers"
 	"github.com/stretchr/testify/require"
 )
 

@@ -6,7 +6,7 @@
 
 package option
 
-import "github.com/mongodb/mongo-go-driver/bson"
+import "github.com/Vincent20101/mongo-go-driver/bson"
 
 // Collation allows users to specify language-specific rules for string comparison, such as
 // rules for lettercase and accent marks.

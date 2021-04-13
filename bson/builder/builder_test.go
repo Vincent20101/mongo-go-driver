@@ -12,8 +12,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/mongodb/mongo-go-driver/bson/decimal"
-	"github.com/mongodb/mongo-go-driver/bson/objectid"
+	"github.com/Vincent20101/mongo-go-driver/bson/decimal"
+	"github.com/Vincent20101/mongo-go-driver/bson/objectid"
 )
 
 func TestDocumentBuilder(t *testing.T) {

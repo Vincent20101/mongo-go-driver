@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/mongodb/mongo-go-driver/benchmark"
+	"github.com/Vincent20101/mongo-go-driver/benchmark"
 )
 
 func main() {

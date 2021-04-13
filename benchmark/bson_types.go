@@ -1,6 +1,6 @@
 package benchmark
 
-import "github.com/mongodb/mongo-go-driver/bson/objectid"
+import "github.com/Vincent20101/mongo-go-driver/bson/objectid"
 
 type flatBSONTags struct {
 	ID objectid.ObjectID `bson:"_id"`

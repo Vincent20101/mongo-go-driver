@@ -3,8 +3,8 @@ package countopt
 import (
 	"reflect"
 
-	"github.com/mongodb/mongo-go-driver/core/option"
-	"github.com/mongodb/mongo-go-driver/mongo/mongoopt"
+	"github.com/Vincent20101/mongo-go-driver/core/option"
+	"github.com/Vincent20101/mongo-go-driver/mongo/mongoopt"
 )
 
 var countBundle = new(CountBundle)
